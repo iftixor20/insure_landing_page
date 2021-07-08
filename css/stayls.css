@@ -105,7 +105,7 @@ body {
   background-image: url(../img/bitmap.png);
   background-size: 550px 520px;
   background-repeat: no-repeat;
-  background-position: 720px 90px;
+  background-position: 820px 90px;
 
 }
 
@@ -129,7 +129,7 @@ body {
   line-height: 64px;
   letter-spacing: -1px;
   color: #FFFFFF;
-  padding-bottom: 21px;
+  padding-bottom: 0px;
 }
 
 .text_p {
